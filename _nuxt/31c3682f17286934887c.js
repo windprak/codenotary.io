@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{800:function(e,n,r){"use strict";r.r(n);var t={middleware:function(e){return(0,e.redirect)("/terms-of-service/services-agreement")}},o=r(0),component=Object(o.a)(t,void 0,void 0,!1,null,null,null);n.default=component.exports}}]);
